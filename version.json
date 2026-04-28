@@ -1,0 +1,21 @@
+{
+  "latest": "1.0",
+  "download_url": "https://YOURNAME.gumroad.com/l/essentialspro",
+  "releases": [
+    {
+      "version": "1.0",
+      "date": "2026-04-27",
+      "notes": [
+        "Initial release",
+        "GraphFrame easing curve editor with 12 presets",
+        "Expressor — expression editor with built-in presets",
+        "Color tab with 4 built-in palettes",
+        "Align, Anchor Point, Layer Operations",
+        "Composition tools: Pre-Comp, Un-Comp",
+        "Create tools: Shape Layer, Blur, Solid Fill, Null, Camera and more",
+        "Themes: 8 colour themes",
+        "Per-tab visibility toggle in Settings"
+      ]
+    }
+  ]
+}
